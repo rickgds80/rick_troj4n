@@ -2,7 +2,7 @@
 A Ethical Hacking Trojan writed in Python
 
 Rick Hack Remote Trojan v 1.0
-This is the client Code
+
 This script connect to remote server and give a reverse shell
 
 Cient:
