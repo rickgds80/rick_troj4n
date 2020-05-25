@@ -15,14 +15,7 @@ Kali Linux
 
 works with some python libraries:
 
-pip install image
-pip install socket
-pip install subprocess
-pip install os
-pip install random
-pip install time
-pip install pynput
-pip install scapy
+pip install image socket subprocess os random time pynput scapy
 
 # Use
 
